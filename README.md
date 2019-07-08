@@ -18,5 +18,9 @@ LIRI uses the following Node packages:
 
     [DotEnv](https://www.npmjs.com/package/dotenv)
     
-Contributors: Erin Lyden 
+
+# Demo
+https://drive.google.com/file/d/15rKhXuNvDFpfo-LTBcGFHmGhQ7xsCsyD/view
+
+Created by: Erin Lyden 
    
